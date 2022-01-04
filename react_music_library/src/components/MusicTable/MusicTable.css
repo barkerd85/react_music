@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(to right, #FFFFFF, rgb(255, 122, 89));
+
+}
+
+
+
+
+.table {
+    border-collapse: collapse;
+    border: 2px solid rgb(9, 119, 146);
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    font-size: .8rem;
+    
+}
+
+
+th,tr, td {
+    border: 1px solid rgb(93, 94, 5);
+    padding: 7px 5px;
+}
+
+th, tr, td {
+    background-color: rgb(170, 216, 228);
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
